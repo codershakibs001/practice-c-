@@ -8,6 +8,9 @@ int main()
     float value = 10.02f;
     bool isFalse = false;
 
+    int values =name;
+    cout << values << endl;
+
     cout << name << endl;
     cout << age << endl;
     cout << value << endl;
