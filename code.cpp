@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    char name = 's';
+    int age = 25;
+    float value = 10.02f;
+    bool isFalse = false;
+
+    cout << name << endl;
+    cout << age << endl;
+    cout << value << endl;
+    cout << isFalse << endl;
+    return 0;
+}
