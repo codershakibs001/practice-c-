@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    char name = 's';
-    int age = 25;
+    char name = 's'; // ASCII CODE 115
+    int age = 25; 
     float value = 10.02f;
     bool isFalse = false;
 
